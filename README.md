@@ -137,8 +137,6 @@ Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b9f5a46-5c67-4551-ad24-0f610eb730be/Untitled.png)
-
 싸피 홈페이지([edu.ssafy.com](http://edu.ssafy.com/))를 바탕으로 메인 컬러 지정.
 
 - Blue - 3396F4
@@ -150,11 +148,8 @@ Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리
 ---
 
 > Figma - WireFrame
-> 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a658cb-66ef-45df-b0e3-5f61b5961464/Untitled.png)
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3HQdkeSSiXptyXSsBoVh6Q%2F%ED%8A%B9%ED%99%94-PJT-Front%3Fnode-id%3D0%253A1](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3HQdkeSSiXptyXSsBoVh6Q%2F%ED%8A%B9%ED%99%94-PJT-Front%3Fnode-id%3D0%253A1)
 
 ## 📚 React 파일구조
 
@@ -165,19 +160,10 @@ Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리
 
 > API
 > 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e014e23-5759-4a00-beeb-fb1c3f729e7e/Untitled.png)
-
 > Component
 > 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/737e588a-34df-490a-8802-f6eef2a78ac5/Untitled.png)
 
 > Redux
 > 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8438aa6a-67e5-4c03-92e9-9d54125441c3/Untitled.png)
-
 ## 📚 배포 구조
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e23a3044-c9dd-4669-b543-1934b6a9b510/Untitled.png)
