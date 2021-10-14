@@ -158,3 +158,7 @@
 ## 📚 ER - 다이어그램
 <center><img src="./image/er diagram.png" style="width:70%;height:70%" /></center>
 
+## 📚 API 문서
+<center><img src="./image/apiDocs.JPG" style="width:70%;height:70%" /></center>
+
+
