@@ -155,3 +155,6 @@
 ## 📚 배포 구조
 <center><img src="./image/Architecture.png" style="width:70%;height:70%" /></center>
 
+## 📚 ER - 다이어그램
+<center><img src="./image/er diagram.png" style="width:70%;height:70%" /></center>
+
