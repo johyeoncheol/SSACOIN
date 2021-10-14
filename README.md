@@ -141,6 +141,7 @@
 
 > Redux
 <center><img src="./image/Redux.png" style="width:70%;height:70%" /></center>
+
 ```
     state를 이용해 웹 사이트 혹은 애플리케이션의 `상태 관리`를 해주는 역할
 
