@@ -54,9 +54,9 @@
 ---
 
 - **Spring boot**
-- Spring Security
+- [Spring Security](https://spring.io/projects/spring-security)
 - JWT Token
-- Redis
+- [Redis](https://redis.io/)
 - JPA
 - QueryDSL
 
@@ -65,7 +65,9 @@
 ---
 
 - 가상머신 - docker
-- 블록체인 - geth, Web3j
+- 블록체인  
+    +  geth 
+    +  [Web3j](https://docs.web3j.io/4.8.7/) : Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리 
 - CI/CD - Jenkins
 - Database - MariaDB
 - 웹 서버 - Nginx
@@ -93,34 +95,7 @@
 
 [Prettier · Opinionated Code Formatter](https://prettier.io/)
 
-### Redux
 
----
-
-state를 이용해 웹 사이트 혹은 애플리케이션의 `상태 관리`를 해주는 역할
-
-- LocalStorage와 SessionStorage의 storage를 redux에서 사용하게 해주는 `Redux-Persist 라이브러리` 추가
-- 해당 프로젝트에서는 로그인 여부와 사용자 정보를 관리해주고 있음.
-
-### Web3j
-
----
-
-Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리 
-
-[Web3j](https://docs.web3j.io/4.8.7/)
-
-### Spring Security
-
----
-
-[Spring Security](https://spring.io/projects/spring-security)
-
-### Redis
-
----
-
-[Redis](https://redis.io/)
 
 ## 🛠️ 협업툴
 
@@ -159,11 +134,20 @@ Java에서 블록체인 네트워크에 접속할 수 있는 라이브러리
 - 웹사이트의 통일성과 컴포넌트 재사용을 위해 Common 컴포넌트들을 미리 기획하고 한 폴더 내에서 관리 할 수 있도록 하였습니다.
 
 > API
+<center><img src="./image/API.png" style="width:70%;height:70%" /></center>
 
 > Component
-
+<center><img src="./image/Component.png" style="width:70%;height:70%" /></center>
 
 > Redux
+<center><img src="./image/Redux.png" style="width:70%;height:70%" /></center>
+```
+    state를 이용해 웹 사이트 혹은 애플리케이션의 `상태 관리`를 해주는 역할
+
+    LocalStorage와 SessionStorage의 storage를 redux에서 사용하게 해주는 `Redux-Persist 라이브러리` 추가
+    해당 프로젝트에서는 로그인 여부와 사용자 정보를 관리해주고 있음.
+```
 
 
 ## 📚 배포 구조
+
