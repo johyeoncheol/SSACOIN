@@ -123,6 +123,8 @@
 ---
 
 > Figma - WireFrame
+<center><img src="./image/web_figma.JPG" style="width:100%;height:70%" /></center>
+<center><img src="./image/app_figma.JPG" style="width:70%;height:70%" /></center>
 
 
 
